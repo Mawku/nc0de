@@ -1,7 +1,7 @@
 # nc0de
-Nhentai Code Generator
+nhentai Code Generator
 
-# Usage
+# usage
 With Simple Mode you can copy a random code to the clipboard or directly open a new browser tab on the random code
 
 With File mode you can create a text file containing multiple codes [NOT AVAILBLE AT THE MOMENT]
